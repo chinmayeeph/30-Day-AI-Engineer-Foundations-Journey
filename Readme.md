@@ -3,9 +3,23 @@
 Topics:
 - Variables
 - Data types
+    - int
+    - float
+    - str
+    - bool
 - Type conversion
-- Input/output
+    - input()
+    - print()
 - Operators
+    - Arithmetic operators
+    - Comparison operators
+    - Logical operators
+    - Assignment Operators
+    - Bitwise Operators
+    - Membership Operators
+    - Identity Operators
+    - Ternary Operators
+
 
 Projects:
 - Personal Information Program
