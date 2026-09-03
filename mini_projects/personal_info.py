@@ -1,0 +1,11 @@
+name = input("What is your name?: ")
+age = int(input("What is your age?: "))
+height = float(input("What is your height in feet?: "))
+city = input("What is your city?: ")
+Favorite_language = input("What is your favorite language?: ")
+age += 1
+print(name)
+print(age)
+print(height)
+print(city)
+print(Favorite_language)
