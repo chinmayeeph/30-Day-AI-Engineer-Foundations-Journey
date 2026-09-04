@@ -20,8 +20,8 @@ Topics:
     - Identity Operators
     - Ternary Operators
 
-
 Projects:
 - Personal Information Program
 - Calculator
+- Ultimate Fitness and Budget Calculator
 - Unit Converter
