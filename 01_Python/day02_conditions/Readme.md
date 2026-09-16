@@ -21,12 +21,14 @@
 - Grade Calculator
 - Deep Thought
 - Home Federal Savings Bank
+- File Extensions
+- Math Interpreter
+- Meal Time 
 - Age Category
 - Leap Year
 - Login Checker
 - Discount Calculator
 - Electricity Tariff
-- BMI Category
 
 ## Challenge
 
