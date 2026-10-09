@@ -1,4 +1,0 @@
-Line 1: Python is interesting.
-Line 2: Learning try-except blocks.
-Line 3: File handling is fun!
-
